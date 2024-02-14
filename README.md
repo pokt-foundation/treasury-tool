@@ -12,4 +12,7 @@ Ensure that the bash file `treasury-balance.sh` has permissions
 
 Add all addresses you'd like to scan in `input.txt`
 
+Update the value of $POKT in `treasury-balance.sh` to a valid endpoint.
+(Get one free at https://portal.grove.city)
+
 Execute the script: `./treasury-balance.sh`
