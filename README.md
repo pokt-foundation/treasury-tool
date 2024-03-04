@@ -6,9 +6,9 @@ The output is in uPOKT and POKT.
 
 # Reequired Packages
 
-- [PocketCore](https://github.com/pokt-network/pocket-core)
 - [jq](https://jqlang.github.io/jq/)
-- [Parallel](https://savannah.gnu.org/projects/parallel/)
+- [parallel](https://savannah.gnu.org/projects/parallel/)
+- [pocket-core](https://github.com/pokt-network/pocket-core)
 
 
 # How to Use
