@@ -2,7 +2,14 @@
 
 Bash script that adds all balances and staked tokens from a list of POKT addresses.
 
-The output is in uPOKT.
+The output is in uPOKT and POKT.
+
+# Reequired Packages
+
+- [jq](https://jqlang.github.io/jq/)
+- [parallel](https://savannah.gnu.org/projects/parallel/)
+- [pocket-core](https://github.com/pokt-network/pocket-core)
+
 
 # How to Use
 
